@@ -6,7 +6,6 @@ def countdown(n):
     else:
         print(n)
         countdown(n-1)
-    return
 
 def fib(n):
     if n == 0:
